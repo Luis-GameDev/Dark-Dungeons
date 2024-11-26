@@ -150,9 +150,8 @@ namespace Settings
                 string json = File.ReadAllText(settingsFilePath);
                 gameSettings = JsonUtility.FromJson<GameSettings>(json);
 
-                yield return null;
-
                 ApplySettings();
+                yield return null;
             }
             else
             {
