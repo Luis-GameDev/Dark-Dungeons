@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
+using FishNet.Object;
+using Unity.Mathematics;
 using UnityEngine;
 
 /* <summary>
 /// Abstract base class representing a generic character in a 3D Top-Down Dungeon Crawler.
 /// Specific character types (e.g., Warrior, Mage) should inherit from this class.
 /// </summary> */
-public abstract class CharacterBase : MonoBehaviour
+public abstract class CharacterBase : NetworkBehaviour
 {
     // Character Attributes
     [Header("Character Attributes")]
@@ -43,6 +45,7 @@ public abstract class CharacterBase : MonoBehaviour
 
     protected Animator animator;
     protected Rigidbody rb;
+    protected NetworkObject no;
     private float lastAttackTime;
 
     /* <summary>
@@ -52,10 +55,16 @@ public abstract class CharacterBase : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
+        no = GetComponent<NetworkObject>();
     }
 
     private void Update()
     {
+        if(no.HasAuthority) {
+            Vector3 movementVector = Vector3.zero;
+
+        }
+
         // Common update logic
         HandleMovement();
 
