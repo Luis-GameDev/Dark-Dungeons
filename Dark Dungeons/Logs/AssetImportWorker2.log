@@ -1333,3 +1333,341 @@ Start importing Assets/Art/Images/DD_final_buttons (2).png using Guid(c23ae1225b
  -> (artifact id: '66447c53782a4d8dc4f6b9a5f36be292') in 0.036863 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 854.784906 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab
+  artifactKey: Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab using Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3a524400ce9277ca712f2ed64d44e1e') in 0.001382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.009039 seconds.
+  path: Assets/FishNet/Demos/HashGrid/Prefabs/HashGrid_Static.prefab
+  artifactKey: Guid(0d6d0f48b03b17f49a6340103cd9b9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/HashGrid/Prefabs/HashGrid_Static.prefab using Guid(0d6d0f48b03b17f49a6340103cd9b9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c08d14a6cc714c994907b98cbf8f3dea') in 0.000741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006815 seconds.
+  path: Assets/FishNet/Demos/Prefabs/NetworkHudCanvas.prefab
+  artifactKey: Guid(0570b6f7f713dc44a90463654bbcd8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Prefabs/NetworkHudCanvas.prefab using Guid(0570b6f7f713dc44a90463654bbcd8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '09b14814d98d6edd8010c3b8f291af5c') in 0.001051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/FishNet/Demos/Benchmarks/NetworkTransform/Prefabs/NetworkTransform Benchmark.prefab
+  artifactKey: Guid(f32d4c19de900e64cb73cedcb8ba6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Benchmarks/NetworkTransform/Prefabs/NetworkTransform Benchmark.prefab using Guid(f32d4c19de900e64cb73cedcb8ba6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ef7bbeb6cfd7bb98e52dd9d7990076b') in 0.000711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006210 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Particles/Pistol Muzzle Flash.prefab
+  artifactKey: Guid(4385a793e032d634bb912f84a23d6db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Particles/Pistol Muzzle Flash.prefab using Guid(4385a793e032d634bb912f84a23d6db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '06dd65d3cb450259022db993e78149b5') in 0.000763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.005826 seconds.
+  path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab
+  artifactKey: Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab using Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a752b6dbce9b094671fa8de35cabdc04') in 0.000681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.027886 seconds.
+  path: Assets/FishNet/Demos/SceneManager (Old Examples)/Prefabs/Player.prefab
+  artifactKey: Guid(bf5f023b4017a5e41a9815ec5745df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/SceneManager (Old Examples)/Prefabs/Player.prefab using Guid(bf5f023b4017a5e41a9815ec5745df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '59f05355152375292d82fa49b49e32f5') in 0.000697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.005173 seconds.
+  path: Assets/FishNet/Runtime/Plugins/GameKit/Dependencies/Utilities/Types/ObjectPooling/Demo/Prefabs/Projectile.prefab
+  artifactKey: Guid(6ed8235e90a17434597bd75f8631dfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Runtime/Plugins/GameKit/Dependencies/Utilities/Types/ObjectPooling/Demo/Prefabs/Projectile.prefab using Guid(6ed8235e90a17434597bd75f8631dfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9e32529b637612d50d858a0f32048e3a') in 0.000949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/TextCanvas.prefab
+  artifactKey: Guid(a7bbd13c7452746409efbaeae6a0d8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/TextCanvas.prefab using Guid(a7bbd13c7452746409efbaeae6a0d8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'db4db85a8f6ee295a14777e1a116b087') in 0.000895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 20.932226 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab
+  artifactKey: Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab using Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3a524400ce9277ca712f2ed64d44e1e') in 0.000638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.049072 seconds.
+  path: Assets/FishNet/Demos/Prefabs/NetworkHudCanvas.prefab
+  artifactKey: Guid(0570b6f7f713dc44a90463654bbcd8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Prefabs/NetworkHudCanvas.prefab using Guid(0570b6f7f713dc44a90463654bbcd8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '09b14814d98d6edd8010c3b8f291af5c') in 0.001018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/FishNet/Runtime/Plugins/GameKit/Dependencies/Utilities/Types/ObjectPooling/Demo/Prefabs/Projectile.prefab
+  artifactKey: Guid(6ed8235e90a17434597bd75f8631dfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Runtime/Plugins/GameKit/Dependencies/Utilities/Types/ObjectPooling/Demo/Prefabs/Projectile.prefab using Guid(6ed8235e90a17434597bd75f8631dfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9e32529b637612d50d858a0f32048e3a') in 0.000876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab
+  artifactKey: Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab using Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a752b6dbce9b094671fa8de35cabdc04') in 0.001220 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Player.prefab
+  artifactKey: Guid(8cf33e8e99a9b0c4c8f29ff725650de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Player.prefab using Guid(8cf33e8e99a9b0c4c8f29ff725650de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f059169d1a2df26b0ba4e7f156c71987') in 0.000790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Particles/Pistol Muzzle Flash.prefab
+  artifactKey: Guid(4385a793e032d634bb912f84a23d6db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Particles/Pistol Muzzle Flash.prefab using Guid(4385a793e032d634bb912f84a23d6db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '06dd65d3cb450259022db993e78149b5') in 0.000593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.784144 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab
+  artifactKey: Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab using Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3a524400ce9277ca712f2ed64d44e1e') in 0.000743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FishNet/Demos/Prefabs/NetworkHudCanvas.prefab
+  artifactKey: Guid(0570b6f7f713dc44a90463654bbcd8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Prefabs/NetworkHudCanvas.prefab using Guid(0570b6f7f713dc44a90463654bbcd8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '09b14814d98d6edd8010c3b8f291af5c') in 0.000781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ServerPosition.prefab
+  artifactKey: Guid(85cfddb33a414594490116dc8e2a91f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ServerPosition.prefab using Guid(85cfddb33a414594490116dc8e2a91f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1072fee2acc5a7285d2fce516fa04e29') in 0.001422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/FishNet/Demos/Benchmarks/NetworkTransform/Prefabs/NetworkTransform Benchmark.prefab
+  artifactKey: Guid(f32d4c19de900e64cb73cedcb8ba6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Benchmarks/NetworkTransform/Prefabs/NetworkTransform Benchmark.prefab using Guid(f32d4c19de900e64cb73cedcb8ba6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ef7bbeb6cfd7bb98e52dd9d7990076b') in 0.000914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/FishNet/Demos/Prefabs/NetworkManager.prefab
+  artifactKey: Guid(0b650fca685f2eb41a86538aa883e4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Prefabs/NetworkManager.prefab using Guid(0b650fca685f2eb41a86538aa883e4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8f93b4c76e303dca0fd859da810ef320') in 0.000991 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/TextCanvas.prefab
+  artifactKey: Guid(a7bbd13c7452746409efbaeae6a0d8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/TextCanvas.prefab using Guid(a7bbd13c7452746409efbaeae6a0d8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'db4db85a8f6ee295a14777e1a116b087') in 0.000773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 31.765800 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab
+  artifactKey: Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab using Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3a524400ce9277ca712f2ed64d44e1e') in 0.001068 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab
+  artifactKey: Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab using Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a752b6dbce9b094671fa8de35cabdc04') in 0.001277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ServerPosition.prefab
+  artifactKey: Guid(85cfddb33a414594490116dc8e2a91f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ServerPosition.prefab using Guid(85cfddb33a414594490116dc8e2a91f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1072fee2acc5a7285d2fce516fa04e29') in 0.000993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/FishNet/Demos/SceneManager (Old Examples)/Prefabs/Player.prefab
+  artifactKey: Guid(bf5f023b4017a5e41a9815ec5745df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/SceneManager (Old Examples)/Prefabs/Player.prefab using Guid(bf5f023b4017a5e41a9815ec5745df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '59f05355152375292d82fa49b49e32f5') in 0.000677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Player.prefab
+  artifactKey: Guid(8cf33e8e99a9b0c4c8f29ff725650de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Player.prefab using Guid(8cf33e8e99a9b0c4c8f29ff725650de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f059169d1a2df26b0ba4e7f156c71987') in 0.001446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Particles/Pistol Muzzle Flash.prefab
+  artifactKey: Guid(4385a793e032d634bb912f84a23d6db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Particles/Pistol Muzzle Flash.prefab using Guid(4385a793e032d634bb912f84a23d6db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '06dd65d3cb450259022db993e78149b5') in 0.001437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 174.929559 seconds.
+  path: Assets/Prefabs/Character
+  artifactKey: Guid(d91b3838e774a1843b05c91b896568ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Character using Guid(d91b3838e774a1843b05c91b896568ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dfe7d0c6d041f4140d3cbc2926be2e66') in 0.000656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 15.068026 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab
+  artifactKey: Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ClientPosition.prefab using Guid(ad8f5b5504b971d42886f4f6fd087d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3a524400ce9277ca712f2ed64d44e1e') in 0.000955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/FishNet/Demos/Benchmarks/NetworkTransform/Prefabs/NetworkTransform Benchmark.prefab
+  artifactKey: Guid(f32d4c19de900e64cb73cedcb8ba6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Benchmarks/NetworkTransform/Prefabs/NetworkTransform Benchmark.prefab using Guid(f32d4c19de900e64cb73cedcb8ba6f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ef7bbeb6cfd7bb98e52dd9d7990076b') in 0.000624 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.008692 seconds.
+  path: Assets/FishNet/Demos/Prefabs/NetworkManager.prefab
+  artifactKey: Guid(0b650fca685f2eb41a86538aa883e4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/Prefabs/NetworkManager.prefab using Guid(0b650fca685f2eb41a86538aa883e4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8f93b4c76e303dca0fd859da810ef320') in 0.000936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ServerPosition.prefab
+  artifactKey: Guid(85cfddb33a414594490116dc8e2a91f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/ServerPosition.prefab using Guid(85cfddb33a414594490116dc8e2a91f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1072fee2acc5a7285d2fce516fa04e29') in 0.000905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/FishNet/Runtime/Plugins/GameKit/Dependencies/Utilities/Types/ObjectPooling/Demo/Prefabs/Projectile.prefab
+  artifactKey: Guid(6ed8235e90a17434597bd75f8631dfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Runtime/Plugins/GameKit/Dependencies/Utilities/Types/ObjectPooling/Demo/Prefabs/Projectile.prefab using Guid(6ed8235e90a17434597bd75f8631dfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9e32529b637612d50d858a0f32048e3a') in 0.001883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab
+  artifactKey: Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/SceneManager/Additive Scenes/Prefabs/Player.prefab using Guid(6331b3542e64a564c81bc39cedf70c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a752b6dbce9b094671fa8de35cabdc04') in 0.001252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/FishNet/Demos/SceneManager (Old Examples)/Prefabs/Player.prefab
+  artifactKey: Guid(bf5f023b4017a5e41a9815ec5745df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/SceneManager (Old Examples)/Prefabs/Player.prefab using Guid(bf5f023b4017a5e41a9815ec5745df3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '59f05355152375292d82fa49b49e32f5') in 0.000734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Player.prefab
+  artifactKey: Guid(8cf33e8e99a9b0c4c8f29ff725650de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Player.prefab using Guid(8cf33e8e99a9b0c4c8f29ff725650de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f059169d1a2df26b0ba4e7f156c71987') in 0.001016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/TextCanvas.prefab
+  artifactKey: Guid(a7bbd13c7452746409efbaeae6a0d8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishNet/Demos/ColliderRollback/Prefabs/Rollback Visualization/TextCanvas.prefab using Guid(a7bbd13c7452746409efbaeae6a0d8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'db4db85a8f6ee295a14777e1a116b087') in 0.000923 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
