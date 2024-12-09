@@ -45,7 +45,7 @@ public abstract class CharacterBase : NetworkBehaviour
 
     protected Animator animator;
     protected Rigidbody rb;
-    protected NetworkObject no;
+    protected NetworkObject netObj;
     private float lastAttackTime;
 
     /* <summary>
@@ -55,12 +55,12 @@ public abstract class CharacterBase : NetworkBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
-        no = GetComponent<NetworkObject>();
+        netObj = GetComponent<NetworkObject>();
     }
 
-    private void Update()
+    protected virtual void Update()
     {
-        if(no.HasAuthority) {
+        if(netObj.HasAuthority) {
             Vector3 movementVector = Vector3.zero;
 
         }
